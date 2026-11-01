@@ -18,7 +18,7 @@ Currently, this repository focuses purely on the frontend (HTML, CSS, and React)
 ## 📂 Featured Projects
 
 * **[LuxeMart](https://front-end-ui-design-luxemart.vercel.app/):** A modern e-commerce UI concept focusing on clean product layouts and responsive design.
-* **[NovaSpark](./NovaSpark):** A sleek, creative interface design built with responsive components and smooth UI transitions.
+* **[NovaSpark](https://front-end-ui-design-novaspark-nooa.vercel.app/):** A sleek, creative interface design built with responsive components and smooth UI transitions.
 
 ---
 
