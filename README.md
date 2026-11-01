@@ -17,7 +17,7 @@ Currently, this repository focuses purely on the frontend (HTML, CSS, and React)
 
 ## 📂 Featured Projects
 
-* **[LuxeMart](https://vercel.com/new/karan-vishwakarmas-projects-e30ed313/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=front-end-ui-design-luxemart-khaqlee6l.vercel.app&projectName=front-end-ui-design-luxemart&s=https%3A%2F%2Fgithub.com%2FKavi300717%2FFront-End-UI-Design&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=CowSRjNK8EuKA85CbQ5e5&teamSlug=karan-vishwakarmas-projects-e30ed313):** A modern e-commerce UI concept focusing on clean product layouts and responsive design.
+* **[LuxeMart](https://front-end-ui-design-luxemart.vercel.app/):** A modern e-commerce UI concept focusing on clean product layouts and responsive design.
 * **[NovaSpark](./NovaSpark):** A sleek, creative interface design built with responsive components and smooth UI transitions.
 
 ---
